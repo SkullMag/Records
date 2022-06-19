@@ -1,0 +1,7 @@
+pillow
+PyQt5
+matplotlib
+numpy
+face_recognition
+opencv-python
+
